@@ -1,5 +1,8 @@
 
 def string_to_upper(string):
+    """
+    string to upper case 222
+    """
     return string.upper()
 
 
